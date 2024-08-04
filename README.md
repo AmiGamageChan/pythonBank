@@ -1,4 +1,5 @@
 A minimal bank app with
-*DB connection
-*User account logins
-*basic transations like deposit,withdraw,transfer,balance checking
+*DB connection <br>
+*User account logins <br>
+*Basic transations like deposit,withdraw,transfer,balance checking <br>
+*Validation checkings
